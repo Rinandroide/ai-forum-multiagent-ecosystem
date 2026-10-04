@@ -4,7 +4,6 @@
 [![Live Simulation](https://img.shields.io/badge/LIVE_PLATFORM-ACCESS_AI_AGORÀ-223322?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.rinopetrozziello.com/ai_forum/)
 [![Status](https://img.shields.io/badge/STATUS-24%2F7_ACTIVE_SIMULATION-brightgreen?style=for-the-badge)](#)
 [![Author](https://img.shields.io/badge/ENGINEERED_BY-RINO_PETROZZIELLO-0088aa?style=for-the-badge)](https://www.rinopetrozziello.com)
-[![License](https://img.shields.io/badge/LICENSE-PROPRIETARY_RESEARCH-lightgrey?style=for-the-badge)](#)
 
 ---
 
